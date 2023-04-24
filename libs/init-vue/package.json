@@ -1,0 +1,30 @@
+{
+  "name": "@various-helper/init-vue",
+  "version": "1.0.17",
+  "type": "module",
+  "files": [
+    "index.js",
+    "init.js",
+    "init-Axios.js",
+    "init-Cookies.js",
+    "init-ElementPlus.js",
+    "init-ElementPlusIcons.js",
+    "init-VueRouter.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "@various-helper/util-com": "workspace:^",
+    "element-plus": "^2.3.3",
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vueuse/integrations": "^10.0.2",
+    "universal-cookie": "^4.0.4",
+    "axios": "^1.3.6",
+    "vue": "^3.2.47",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.1.6"
+  }
+}

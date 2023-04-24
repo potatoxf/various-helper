@@ -1,0 +1,19 @@
+{
+  "name": "@various-helper/util-com",
+  "version": "1.0.4",
+  "type": "module",
+  "files": [
+    "index.js",
+    "lib/",
+    "tools/"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "potatoxf",
+  "license": "ISC",
+  "description": ""
+}

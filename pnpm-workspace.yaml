@@ -1,0 +1,9 @@
+packages:
+  #
+  - "utils/**"
+  #
+  - "components/**"
+  #
+  - "libs/**"
+  #
+  - "examples/**"
